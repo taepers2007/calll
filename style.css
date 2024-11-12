@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+.num4 {
+    padding-right:6px;
+    background-color: rgb(115, 253, 115);
+}
+
+.num5 {
+    padding-right:9px;
+    background-color: rgb(115, 253, 115);
+
+}
+
+.num6 {
+    padding-right:8px;
+    background-color: rgb(115, 253, 115);
+}
+
+.num7 {
+    background-color: rgb(115, 253, 115);
+}
+.num9 {
+    background-color: rgb(115, 253, 115);
+    padding-right: 5px;
+}
+.num10 {
+    background-color: rgb(115, 253, 115);
+    padding-right: 60px;
+}
